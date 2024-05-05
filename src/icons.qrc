@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/led_off.png</file>
+        <file>img/led_on.png</file>
+        <file>img/delete.png</file>
+        <file>img/refresh.png</file>
+        <file>img/not_selected.png</file>
+        <file>img/selected.png</file>
+        <file>img/messages.png</file>
+        <file>img/files.png</file>
+        <file>img/list.png</file>
+        <file>img/led_waiting.png</file>
+    </qresource>
+</RCC>
